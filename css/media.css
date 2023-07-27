@@ -1,0 +1,20 @@
+/* mobile */
+@media(min-width:320px){
+    .card-col{
+        width:100%;
+    }
+}
+    /* ipad */
+    @media(min-width:660px){
+        
+        .card-col{
+            width:40%;
+        }
+    }
+        /* laptop */
+        @media(min-width:960px){
+           
+            .card-col{
+                width:30%;
+            }
+        }

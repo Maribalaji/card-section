@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+#card-section{
+    background-color: bisque;
+}
+.card-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.card-col{
+    /* width:30%; */
+    padding: 10px;
+    border:1px solid black;
+    border-radius: 5px;
+    margin:10px 5px;
+
+}
+
+
+img{
+    width:100%;
+}
+h1{
+    text-align: center;
+}
